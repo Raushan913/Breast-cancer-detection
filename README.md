@@ -1,0 +1,2 @@
+# Breast cancer detection
+ The Phase-Wise Breast Cancer Detection Model represents a cutting-edge approach in the field of medical diagnostics, leveraging the power of Artificial Intelligence (AI) and Machine Learning (ML) to enhance early detection of breast cancer. This innovative model is designed to provide a systematic and efficient framework for identifying potential malignancies at various stages, ultimately contributing to improved patient outcomes and survival rates.
